@@ -4,4 +4,4 @@
 This repository contains the implementation of the paper UAV-Assisted CoMP NOMA Multicell Networks.
 
 ## System Model:
-![SNS](https://ibb.co/XjnC5q8)
+
